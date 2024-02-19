@@ -37,6 +37,7 @@
     "react-dom": ">=17.0.0"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "@rwndy:registry": "https://npm.pkg.github.com"
   }
 }
